@@ -274,5 +274,5 @@ def parseImport(node):
 
 
 if __name__ == "__main__":
-    path = r"C:\Users\deshi\Code\whats-up-doc\test\scripts\test_response.py"
+    path = r"C:\Users\deshi\Code\accidental-parser\parser.py"
     testScriptParsing(path)
